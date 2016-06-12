@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 35f1e1b9707126f4eb1e2c4da584b0aa
+timeCreated: 1440313515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eyeMenu_0
+    21300002: eyeMenu_1
+    21300004: eyeMenu_2
+    21300006: eyeMenu_3
+    21300008: eyeMenu_4
+    21300010: eyeMenu_5
+    21300012: eyeMenu_6
+    21300014: eyeMenu_7
+    21300016: eyeMenu_8
+    21300018: eyeMenu_9
+    21300020: eyeMenu_10
+    21300022: eyeMenu_11
+    21300024: eyeMenu_12
+    21300026: eyeMenu_13
+    21300028: eyeMenu_14
+    21300030: eyeMenu_15
+    21300032: eyeMenu_16
+    21300034: eyeMenu_17
+    21300036: eyeMenu_18
+    21300038: eyeMenu_19
+    21300040: eyeMenu_20
+    21300042: eyeMenu_21
+    21300044: eyeMenu_22
+    21300046: eyeMenu_23
+    21300048: eyeMenu_24
+    21300050: eyeMenu_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eyeMenu_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 100
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 100
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_9
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_10
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 99
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_11
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_12
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_13
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 100
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_14
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_15
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 0
+        width: 99
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_16
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 0
+        width: 99
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_17
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 0
+        width: 100
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_18
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 0
+        width: 99
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_19
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 0
+        width: 102
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_20
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_21
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_22
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 0
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_23
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 0
+        width: 100
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_24
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 0
+        width: 100
+        height: 177
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eyeMenu_25
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 0
+        width: 99
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

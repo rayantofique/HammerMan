@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &122498
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 414284}
+  - 114: {fileID: 11490322}
+  m_Layer: 0
+  m_Name: KillManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &414284
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122498}
+  m_LocalRotation: {x: -.657827437, y: .259350896, z: .657827854, w: .259350538}
+  m_LocalPosition: {x: -8.37290382, y: -1.31042838, z: -2.15431023}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11490322
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 122498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b92388ed0e1226242a394ae8baed5fb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  comboWindowTime: 4
+  spriteNums:
+  - {fileID: 21300000, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300020, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300002, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300004, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300006, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300008, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300010, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300012, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300014, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  - {fileID: 21300016, guid: 11eb2aca63c38e5439d22ec2173c127b, type: 3}
+  comboCountX: {fileID: 0}
+  comboUnits: {fileID: 0}
+  comboTens: {fileID: 0}
+  comboHundreds: {fileID: 0}
+  snailEmission: {fileID: 428526, guid: 1961200722356284aab782c00cb49721, type: 2}
+  wormEmission: {fileID: 428526, guid: 49acbcd466c840e46a02e1a5e2aaee33, type: 2}
+  spiderEmission: {fileID: 428526, guid: b9df578bb150c614885a2a934dec4318, type: 2}
+  snailHit: {fileID: 0}
+  spiderHit: {fileID: 0}
+  wormHit: {fileID: 0}
+  mainCamera: {fileID: 0}
+  flashTime: .100000001
+  coinManager: {fileID: 0}
+  playerEvents: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 122498}
+  m_IsPrefabParent: 1

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 11eb2aca63c38e5439d22ec2173c127b
+timeCreated: 1438857324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nums_0
+    21300002: nums_1
+    21300004: nums_2
+    21300006: nums_3
+    21300008: nums_4
+    21300010: nums_5
+    21300012: nums_6
+    21300014: nums_7
+    21300016: nums_8
+    21300018: nums_9
+    21300020: nums_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nums_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 60
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 74
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 70
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 69
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 65
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 63
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 64
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 58
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 56
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 56
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nums_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

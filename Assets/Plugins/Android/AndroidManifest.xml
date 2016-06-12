@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unity3d.player"
+	android:installLocation="preferExternal"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="23" />
+    
+    <!-- these 3 permissions are mandatory -->
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    
+    <application 
+		android:icon="@drawable/app_icon"
+        android:label="@string/app_name">
+        <activity android:name="com.unity3d.player.UnityPlayerProxyActivity"
+                  android:label="@string/app_name"
+                  android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.unity3d.player.UnityPlayerActivity"
+                  android:label="@string/app_name"
+                  android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+        </activity>
+        <activity android:name="com.unity3d.player.UnityPlayerNativeActivity"
+                  android:label="@string/app_name"
+                  android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+            <meta-data android:name="android.app.lib_name" android:value="unity" />
+            <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="false" />
+        </activity>
+        <activity android:name="com.unity3d.player.VideoPlayer"
+                  android:label="@string/app_name"
+                  android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+        </activity>
+        
+        <!-- PARTNER KEY, use your real key instead of TEST_PARTNER_KEY -->
+        <meta-data android:name="GIFTIZ_PARTNER_KEY" android:value="e4923ab0-c9f8-4cfa-8290-2952ec09bbcd"/>
+        
+        <!-- Activate Giftiz SDK Logging info -->
+        <meta-data android:name="SHOW_GIFTIZ_LOG" android:value="false" />
+    	 
+        <!-- Declare Activity -->
+	    <activity android:name="com.purplebrain.giftiz.sdk.GiftizWebViewActivity" />
+	    
+    </application>
+
+</manifest>

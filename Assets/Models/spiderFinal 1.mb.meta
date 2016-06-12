@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 6ce70b1b2321f0e4bb343c0f3608edc4
+timeCreated: 1438599226
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: ikHandle1
+    100004: ikHandle2
+    100006: ikHandle3
+    100008: ikHandle4
+    100010: ikHandle5
+    100012: ikHandle6
+    100014: ikHandle7
+    100016: ikHandle8
+    100018: joint10
+    100020: joint11
+    100022: joint12
+    100024: joint13
+    100026: joint14
+    100028: joint15
+    100030: joint16
+    100032: joint17
+    100034: joint18
+    100036: joint2
+    100038: joint2 1
+    100040: joint2 2
+    100042: joint2 3
+    100044: joint2 4
+    100046: joint2 5
+    100048: joint2 6
+    100050: joint2 7
+    100052: joint3
+    100054: joint3 1
+    100056: joint3 2
+    100058: joint3 3
+    100060: joint3 4
+    100062: joint3 5
+    100064: joint3 6
+    100066: joint3 7
+    100068: joint4
+    100070: joint4 1
+    100072: joint4 2
+    100074: joint4 3
+    100076: joint4 4
+    100078: joint4 5
+    100080: joint4 6
+    100082: joint4 7
+    100084: joint5
+    100086: joint6
+    100088: joint7
+    100090: joint8
+    100092: pCube1
+    100094: pCube14
+    100096: pCube18
+    100098: pCube19
+    100100: pCube2
+    100102: pCube20
+    100104: pCube21
+    100106: pCube22
+    100108: pCube23
+    100110: pCube24
+    100112: pCube25
+    100114: pSphere1
+    100116: pSphere2
+    100118: //RootNode
+    100120: transform1
+    100122: transform10
+    100124: transform11
+    100126: transform12
+    100128: transform2
+    100130: transform3
+    100132: transform4
+    100134: transform5
+    100136: transform6
+    100138: transform7
+    100140: transform8
+    100142: transform9
+    400000: back
+    400002: ikHandle1
+    400004: ikHandle2
+    400006: ikHandle3
+    400008: ikHandle4
+    400010: ikHandle5
+    400012: ikHandle6
+    400014: ikHandle7
+    400016: ikHandle8
+    400018: joint10
+    400020: joint11
+    400022: joint12
+    400024: joint13
+    400026: joint14
+    400028: joint15
+    400030: joint16
+    400032: joint17
+    400034: joint18
+    400036: joint2
+    400038: joint2 1
+    400040: joint2 2
+    400042: joint2 3
+    400044: joint2 4
+    400046: joint2 5
+    400048: joint2 6
+    400050: joint2 7
+    400052: joint3
+    400054: joint3 1
+    400056: joint3 2
+    400058: joint3 3
+    400060: joint3 4
+    400062: joint3 5
+    400064: joint3 6
+    400066: joint3 7
+    400068: joint4
+    400070: joint4 1
+    400072: joint4 2
+    400074: joint4 3
+    400076: joint4 4
+    400078: joint4 5
+    400080: joint4 6
+    400082: joint4 7
+    400084: joint5
+    400086: joint6
+    400088: joint7
+    400090: joint8
+    400092: pCube1
+    400094: pCube14
+    400096: pCube18
+    400098: pCube19
+    400100: pCube2
+    400102: pCube20
+    400104: pCube21
+    400106: pCube22
+    400108: pCube23
+    400110: pCube24
+    400112: pCube25
+    400114: pSphere1
+    400116: pSphere2
+    400118: //RootNode
+    400120: transform1
+    400122: transform10
+    400124: transform11
+    400126: transform12
+    400128: transform2
+    400130: transform3
+    400132: transform4
+    400134: transform5
+    400136: transform6
+    400138: transform7
+    400140: transform8
+    400142: transform9
+    4300000: pCube25
+    7400000: WalkingSpider
+    7400002: Vulnerabe
+    7400004: VulnerableEyes
+    7400006: Take 0012
+    9500000: //RootNode
+    13700000: pCube25
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: WalkingSpider
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: ikHandle8
+        weight: 1
+      - path: joint14
+        weight: 1
+      - path: joint14/joint5
+        weight: 1
+      - path: joint14/joint5/joint2 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4/joint4 4
+        weight: 1
+      - path: joint14/joint6
+        weight: 1
+      - path: joint14/joint6/joint2 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5/joint4 5
+        weight: 1
+      - path: joint14/joint7
+        weight: 1
+      - path: joint14/joint7/joint2 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6/joint4 6
+        weight: 1
+      - path: joint14/joint8
+        weight: 1
+      - path: joint14/joint8/joint2 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7/joint4 7
+        weight: 1
+      - path: joint14/joint10
+        weight: 1
+      - path: joint14/joint10/joint2
+        weight: 1
+      - path: joint14/joint10/joint2/joint3
+        weight: 1
+      - path: joint14/joint10/joint2/joint3/joint4
+        weight: 1
+      - path: joint14/joint11
+        weight: 1
+      - path: joint14/joint11/joint2 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1/joint4 1
+        weight: 1
+      - path: joint14/joint12
+        weight: 1
+      - path: joint14/joint12/joint2 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2/joint4 2
+        weight: 1
+      - path: joint14/joint13
+        weight: 1
+      - path: joint14/joint13/joint2 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3/joint4 3
+        weight: 1
+      - path: joint14/joint15
+        weight: 1
+      - path: joint14/joint15/joint16
+        weight: 1
+      - path: joint14/joint15/joint17
+        weight: 1
+      - path: joint14/joint18
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform12
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform11
+        weight: 1
+      - path: pCube14
+        weight: 1
+      - path: pCube14/transform8
+        weight: 1
+      - path: pCube18
+        weight: 1
+      - path: pCube18/transform7
+        weight: 1
+      - path: pCube19
+        weight: 1
+      - path: pCube19/transform6
+        weight: 1
+      - path: pCube20
+        weight: 1
+      - path: pCube20/transform5
+        weight: 1
+      - path: pCube21
+        weight: 1
+      - path: pCube21/transform4
+        weight: 1
+      - path: pCube22
+        weight: 1
+      - path: pCube22/transform3
+        weight: 1
+      - path: pCube23
+        weight: 1
+      - path: pCube23/transform2
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube24/transform1
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform10
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere2/transform9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vulnerabe
+      takeName: Take 001
+      firstFrame: 129
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: ikHandle8
+        weight: 1
+      - path: joint14
+        weight: 1
+      - path: joint14/joint5
+        weight: 1
+      - path: joint14/joint5/joint2 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4/joint4 4
+        weight: 1
+      - path: joint14/joint6
+        weight: 1
+      - path: joint14/joint6/joint2 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5/joint4 5
+        weight: 1
+      - path: joint14/joint7
+        weight: 1
+      - path: joint14/joint7/joint2 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6/joint4 6
+        weight: 1
+      - path: joint14/joint8
+        weight: 1
+      - path: joint14/joint8/joint2 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7/joint4 7
+        weight: 1
+      - path: joint14/joint10
+        weight: 1
+      - path: joint14/joint10/joint2
+        weight: 1
+      - path: joint14/joint10/joint2/joint3
+        weight: 1
+      - path: joint14/joint10/joint2/joint3/joint4
+        weight: 1
+      - path: joint14/joint11
+        weight: 1
+      - path: joint14/joint11/joint2 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1/joint4 1
+        weight: 1
+      - path: joint14/joint12
+        weight: 1
+      - path: joint14/joint12/joint2 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2/joint4 2
+        weight: 1
+      - path: joint14/joint13
+        weight: 1
+      - path: joint14/joint13/joint2 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3/joint4 3
+        weight: 1
+      - path: joint14/joint15
+        weight: 1
+      - path: joint14/joint15/joint16
+        weight: 1
+      - path: joint14/joint15/joint17
+        weight: 1
+      - path: joint14/joint18
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform12
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform11
+        weight: 1
+      - path: pCube14
+        weight: 1
+      - path: pCube14/transform8
+        weight: 1
+      - path: pCube18
+        weight: 1
+      - path: pCube18/transform7
+        weight: 1
+      - path: pCube19
+        weight: 1
+      - path: pCube19/transform6
+        weight: 1
+      - path: pCube20
+        weight: 1
+      - path: pCube20/transform5
+        weight: 1
+      - path: pCube21
+        weight: 1
+      - path: pCube21/transform4
+        weight: 1
+      - path: pCube22
+        weight: 1
+      - path: pCube22/transform3
+        weight: 1
+      - path: pCube23
+        weight: 1
+      - path: pCube23/transform2
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube24/transform1
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform10
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere2/transform9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: VulnerableEyes
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: ikHandle8
+        weight: 1
+      - path: joint14
+        weight: 1
+      - path: joint14/joint5
+        weight: 1
+      - path: joint14/joint5/joint2 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4
+        weight: 1
+      - path: joint14/joint5/joint2 4/joint3 4/joint4 4
+        weight: 1
+      - path: joint14/joint6
+        weight: 1
+      - path: joint14/joint6/joint2 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5
+        weight: 1
+      - path: joint14/joint6/joint2 5/joint3 5/joint4 5
+        weight: 1
+      - path: joint14/joint7
+        weight: 1
+      - path: joint14/joint7/joint2 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6
+        weight: 1
+      - path: joint14/joint7/joint2 6/joint3 6/joint4 6
+        weight: 1
+      - path: joint14/joint8
+        weight: 1
+      - path: joint14/joint8/joint2 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7
+        weight: 1
+      - path: joint14/joint8/joint2 7/joint3 7/joint4 7
+        weight: 1
+      - path: joint14/joint10
+        weight: 1
+      - path: joint14/joint10/joint2
+        weight: 1
+      - path: joint14/joint10/joint2/joint3
+        weight: 1
+      - path: joint14/joint10/joint2/joint3/joint4
+        weight: 1
+      - path: joint14/joint11
+        weight: 1
+      - path: joint14/joint11/joint2 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1
+        weight: 1
+      - path: joint14/joint11/joint2 1/joint3 1/joint4 1
+        weight: 1
+      - path: joint14/joint12
+        weight: 1
+      - path: joint14/joint12/joint2 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2
+        weight: 1
+      - path: joint14/joint12/joint2 2/joint3 2/joint4 2
+        weight: 1
+      - path: joint14/joint13
+        weight: 1
+      - path: joint14/joint13/joint2 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3
+        weight: 1
+      - path: joint14/joint13/joint2 3/joint3 3/joint4 3
+        weight: 1
+      - path: joint14/joint15
+        weight: 1
+      - path: joint14/joint15/joint16
+        weight: 1
+      - path: joint14/joint15/joint17
+        weight: 1
+      - path: joint14/joint18
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform12
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/transform11
+        weight: 1
+      - path: pCube14
+        weight: 1
+      - path: pCube14/transform8
+        weight: 1
+      - path: pCube18
+        weight: 1
+      - path: pCube18/transform7
+        weight: 1
+      - path: pCube19
+        weight: 1
+      - path: pCube19/transform6
+        weight: 1
+      - path: pCube20
+        weight: 1
+      - path: pCube20/transform5
+        weight: 1
+      - path: pCube21
+        weight: 1
+      - path: pCube21/transform4
+        weight: 1
+      - path: pCube22
+        weight: 1
+      - path: pCube22/transform3
+        weight: 1
+      - path: pCube23
+        weight: 1
+      - path: pCube23/transform2
+        weight: 1
+      - path: pCube24
+        weight: 1
+      - path: pCube24/transform1
+        weight: 1
+      - path: pCube25
+        weight: 1
+      - path: pSphere1
+        weight: 1
+      - path: pSphere1/transform10
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: pSphere2/transform9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
